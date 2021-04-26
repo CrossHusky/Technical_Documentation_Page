@@ -11,6 +11,7 @@ body {
 
 .main-section {
   margin: auto;
+  display: block;
 }
 
 .nav-link {
